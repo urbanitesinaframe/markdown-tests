@@ -1,11 +1,11 @@
 # This file will show you how to create external links and inline links
 
 To create inline links to headings (thats why they are so important to begin with) you need to use:
-round brackets () and include a hash # immediately followed by header name with blank spaces replaced by a hyphon -. 
+First define the name of the link in square brackets[] immediately followed by round brackets () and include a hash # immediately followed by header name with blank spaces replaced by a hyphon -. 
 This should automatically create a hyperlink.
 
-- Go to [Bloody Mary] (#bloody-mary)
-- Go to [Virgin Piña Colada] (#virgin-piña-colada)
+- Go to [Bloody Mary](#bloody-mary)
+- Go to [Virgin Piña Colada](#virgin-piña-colada)
 
 ## Coctail recipes
 
