@@ -1,8 +1,12 @@
 # Heading 1
-Beispieltext
+1 Hashtags
 ## Heading 2
-Beispieltext
+2 Hashtags
 ### Heading 3
-Beispieltext
+3 Hashtags
 #### Heading 4
-Beispieltext
+4 Hashtags
+##### Heading 5
+5 Hashtags
+###### Heading 6
+6 Hashtags
